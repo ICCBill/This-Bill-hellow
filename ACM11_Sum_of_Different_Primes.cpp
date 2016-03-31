@@ -1,4 +1,4 @@
-// ACM11_Sum_of_Different_Primes.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+// ACM11_Sum_of_Different_Primes.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 // assume that n<1120 and k<14
  
 #include "stdafx.h"
@@ -85,4 +85,4 @@ int main(int argc, char* argv[])
 	system("pause");
 	return 0;
 }
-
+//github edit on line test
